@@ -28,7 +28,7 @@
 		016474062BB2794400D7EC50 /* Poppins-ThinItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 016473F52BB2794300D7EC50 /* Poppins-ThinItalic.ttf */; };
 		016474072BB2794400D7EC50 /* Poppins-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 016473F62BB2794400D7EC50 /* Poppins-Bold.ttf */; };
 		016474082BB2794400D7EC50 /* Poppins-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 016473F72BB2794400D7EC50 /* Poppins-Medium.ttf */; };
-		0164740D2BB27A8D00D7EC50 /* Poppins-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0164740C2BB27A8D00D7EC50 /* Poppins-Regular.ttf */; };
+		0164740F2BB3CE1500D7EC50 /* Poppins-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0164740E2BB3CE1500D7EC50 /* Poppins-Regular.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -55,8 +55,8 @@
 		016473F52BB2794300D7EC50 /* Poppins-ThinItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-ThinItalic.ttf"; sourceTree = "<group>"; };
 		016473F62BB2794400D7EC50 /* Poppins-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Bold.ttf"; sourceTree = "<group>"; };
 		016473F72BB2794400D7EC50 /* Poppins-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Medium.ttf"; sourceTree = "<group>"; };
-		0164740B2BB27A2C00D7EC50 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
-		0164740C2BB27A8D00D7EC50 /* Poppins-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Poppins-Regular.ttf"; path = "../../../../../Downloads/Poppins/Poppins-Regular.ttf"; sourceTree = "<group>"; };
+		0164740B2BB27A2C00D7EC50 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0164740E2BB3CE1500D7EC50 /* Poppins-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Regular.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,7 +111,7 @@
 		016473C42BB2783800D7EC50 /* fonts */ = {
 			isa = PBXGroup;
 			children = (
-				0164740C2BB27A8D00D7EC50 /* Poppins-Regular.ttf */,
+				0164740E2BB3CE1500D7EC50 /* Poppins-Regular.ttf */,
 				016473E82BB2794300D7EC50 /* Poppins-Black.ttf */,
 				016473EA2BB2794300D7EC50 /* Poppins-BlackItalic.ttf */,
 				016473F62BB2794400D7EC50 /* Poppins-Bold.ttf */,
@@ -210,7 +210,7 @@
 				016473FB2BB2794400D7EC50 /* Poppins-BlackItalic.ttf in Resources */,
 				016473FA2BB2794400D7EC50 /* Poppins-Thin.ttf in Resources */,
 				016474052BB2794400D7EC50 /* Poppins-BoldItalic.ttf in Resources */,
-				0164740D2BB27A8D00D7EC50 /* Poppins-Regular.ttf in Resources */,
+				0164740F2BB3CE1500D7EC50 /* Poppins-Regular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
